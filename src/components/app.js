@@ -115,7 +115,7 @@ export default class App extends Component {
                 <li className = "user-dropdown"> <a href="profile.html"><img src="images/avatar.png"/><span className = "user-name">Welcome Goutham</span> </a> </li>
 
                 <li> 
-                <a href="#" className = "notification-btn">  </a>
+                <a href="#" className = "notification-btn" style = {{fontSize:"16px"}}> <i className="fas fa-bell"></i> </a>
 
                   <div className = "notifications-box">
                       <h2> Notifications <a href="#" className = "ntf-close">  </a> </h2>

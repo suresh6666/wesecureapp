@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="265px" height="277px" viewBox="0 0 265 277" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>chart</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="v2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="2Teya-dashboard-Copy" transform="translate(-533.000000, -560.000000)">
+            <g id="chart" transform="translate(533.000000, 560.000000)">
+                <g id="Group-6" transform="translate(30.000000, 0.000000)">
+                    <g id="Group-3">
+                        <path d="M104.006112,0 C46.5515661,0 0,46.5604137 0,104 C0,161.43653 46.5515661,208 104.006112,208 C161.436211,208 208,161.43653 208,104 C208,46.5604137 161.436211,0 104.006112,0" id="Fill-731" fill="#383A54"></path>
+                        <path d="M114,99.9898972 L203.811838,128 C215.010587,91.5111799 203.310402,51.5076909 173.987002,27 L114,99.9898972" id="Fill-732" fill="#FD4684"></path>
+                        <path d="M102.698174,103 L71,190.495112 C120.771271,208.336227 176.18113,181.365632 192,130.478624 L102.698174,103" id="Fill-733" fill="#57CBFF"></path>
+                        <path d="M105,103 L12,120.60369 C18.2287575,153.499382 41.396921,180.652546 72.9078259,192 L105,103" id="Fill-734" fill="#58E8C5"></path>
+                        <path d="M104,103.328787 L40.8245738,33 C16.5891995,55.2202379 5.56372954,88.6257979 11.6430807,121 L104,103.328787" id="Fill-735" fill="#ECBF69"></path>
+                        <path d="M102.613747,104 L163,31.5282234 C126.965263,1.81540356 73.6947919,2.97458689 39,34.2907916 L102.613747,104" id="Fill-736" fill="#106CE8"></path>
+                        <path d="M61,102 C61,126.299149 80.6916422,146 105.006139,146 C129.29301,146 149,126.299149 149,102 C149,77.6977815 129.29301,58 105.006139,58 C80.6916422,58 61,77.6977815 61,102 Z" id="Fill-804" fill="#23263B"></path>
+                    </g>
+                    <text id="25%" font-family="Montserrat-Medium, Montserrat" font-size="12" font-weight="400" fill="#FFFFFF">
+                        <tspan x="163" y="89">25%</tspan>
+                    </text>
+                </g>
+                <text id="Type-1-Copy-2" font-family="Montserrat-Light, Montserrat" font-size="11" font-weight="300" fill="#747689">
+                    <tspan x="15" y="248">Type 1</tspan>
+                </text>
+                <text id="Bug-Type-2-Copy-2" font-family="Montserrat-Light, Montserrat" font-size="11" font-weight="300" fill="#747689">
+                    <tspan x="95" y="248">Bug Type 2</tspan>
+                </text>
+                <text id="Bug-Type-3-Copy-2" font-family="Montserrat-Light, Montserrat" font-size="11" font-weight="300" fill="#747689">
+                    <tspan x="205" y="248">Bug Type 3</tspan>
+                </text>
+                <text id="Bug-Type-4-Copy-2" font-family="Montserrat-Light, Montserrat" font-size="11" font-weight="300" fill="#747689">
+                    <tspan x="15" y="274">Bug Type 4</tspan>
+                </text>
+                <text id="Bug-Type-5-Copy-2" font-family="Montserrat-Light, Montserrat" font-size="11" font-weight="300" fill="#747689">
+                    <tspan x="112" y="274">Bug Type 5</tspan>
+                </text>
+                <rect id="Rectangle-9-Copy-10" fill="#106CE8" x="0" y="239" width="10" height="10" rx="5"></rect>
+                <rect id="Rectangle-9-Copy-11" fill="#FD4684" x="80" y="239" width="10" height="10" rx="5"></rect>
+                <rect id="Rectangle-9-Copy-12" fill="#58E8C5" x="0" y="265" width="10" height="10" rx="5"></rect>
+                <rect id="Rectangle-9-Copy-13" fill="#57CBFF" x="190" y="239" width="10" height="10" rx="5"></rect>
+                <rect id="Rectangle-9-Copy-14" fill="#ECBF69" x="97" y="265" width="10" height="10" rx="5"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

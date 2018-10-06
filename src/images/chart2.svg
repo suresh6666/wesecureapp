@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="791px" height="269px" viewBox="0 0 791 269" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>chart2</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="v2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="2Teya-dashboard-Copy" transform="translate(-478.000000, -165.000000)">
+            <g id="chart2" transform="translate(472.000000, 163.000000)">
+                <text id="Jan" font-family="Montserrat-Light, Montserrat" font-size="11" font-weight="300" fill="#747689">
+                    <tspan x="74" y="268">Jan</tspan>
+                </text>
+                <text id="10" font-family="Montserrat-Regular, Montserrat" font-size="11" font-weight="normal" fill="#747689">
+                    <tspan x="33.12" y="203">10</tspan>
+                </text>
+                <text id="0" font-family="Montserrat-Regular, Montserrat" font-size="11" font-weight="normal" fill="#747689">
+                    <tspan x="37.179" y="250">0</tspan>
+                </text>
+                <text id="20" font-family="Montserrat-Regular, Montserrat" font-size="11" font-weight="normal" fill="#747689">
+                    <tspan x="30.821" y="154">20</tspan>
+                </text>
+                <text id="30" font-family="Montserrat-Regular, Montserrat" font-size="11" font-weight="normal" fill="#747689">
+                    <tspan x="30.744" y="107">30</tspan>
+                </text>
+                <text id="40" font-family="Montserrat-Regular, Montserrat" font-size="11" font-weight="normal" fill="#747689">
+                    <tspan x="30.678" y="59">40</tspan>
+                </text>
+                <text id="50" font-family="Montserrat-Regular, Montserrat" font-size="11" font-weight="normal" fill="#747689">
+                    <tspan x="30.414" y="11">50</tspan>
+                </text>
+                <text id="Feb" font-family="Montserrat-Light, Montserrat" font-size="11" font-weight="300" fill="#747689">
+                    <tspan x="178" y="268">Feb</tspan>
+                </text>
+                <text id="Mar" font-family="Montserrat-Light, Montserrat" font-size="11" font-weight="300" fill="#747689">
+                    <tspan x="284" y="268">Mar</tspan>
+                </text>
+                <text id="Apr" font-family="Montserrat-Light, Montserrat" font-size="11" font-weight="300" fill="#747689">
+                    <tspan x="390" y="268">Apr</tspan>
+                </text>
+                <text id="May" font-family="Montserrat-Light, Montserrat" font-size="11" font-weight="300" fill="#747689">
+                    <tspan x="495" y="268">May</tspan>
+                </text>
+                <text id="Jun" font-family="Montserrat-Light, Montserrat" font-size="11" font-weight="300" fill="#747689">
+                    <tspan x="603" y="268">Jun</tspan>
+                </text>
+                <rect id="Path" fill="#2E3147" x="55" y="246" width="600" height="1"></rect>
+                <rect id="Path" fill="#2E3147" x="55" y="198" width="600" height="1"></rect>
+                <rect id="Path" fill="#2E3147" x="55" y="150" width="600" height="1"></rect>
+                <rect id="Path" fill="#2E3147" x="55" y="102" width="600" height="1"></rect>
+                <rect id="Path" fill="#2E3147" x="55" y="54" width="600" height="1"></rect>
+                <rect id="Path" fill="#2E3147" x="55" y="6" width="600" height="1"></rect>
+                <path d="M86,157 C123.403352,148.468746 157.323326,142.539554 187.759922,139.212424 C233.414817,134.221728 264.044718,138.352874 295.369732,147.676437 C326.694746,157 358.537191,160.240164 402.011069,139.212424 C445.484948,118.184684 462.324015,92.6912499 506.879477,89.2878939 C536.583118,87.0189899 573.623292,98.1610826 618,122.714172" id="Path-2" stroke="#58E8C5" stroke-width="2"></path>
+                <circle id="Oval-4" fill="#FFFFFF" opacity="0.100000001" cx="507" cy="89" r="9"></circle>
+                <circle id="Oval-5" fill="#58E8C5" cx="507" cy="89" r="3"></circle>
+                <text id="40-bugs" font-family="Montserrat-Light, Montserrat" font-size="12" font-weight="300" fill="#FFFFFF">
+                    <tspan x="484" y="69">40 bugs</tspan>
+                </text>
+                <text id="We-secure-Goibibo-Ad" font-family="Montserrat-Regular, Montserrat" font-size="11" font-weight="normal" line-spacing="20" fill="#636C7B">
+                    <tspan x="741" y="102">We secure</tspan>
+                    <tspan x="741" y="122">Goibibo</tspan>
+                    <tspan x="741" y="142">Admin</tspan>
+                    <tspan x="741" y="162">Asset 4</tspan>
+                    <tspan x="741" y="182">Asset 5</tspan>
+                </text>
+                <text id="No.-of-bugs" transform="translate(10.500000, 109.000000) rotate(-90.000000) translate(-10.500000, -109.000000) " font-family="Montserrat-Regular, Montserrat" font-size="11" font-weight="normal" line-spacing="20" fill="#636C7B">
+                    <tspan x="-20" y="110">No. of bugs</tspan>
+                </text>
+                <rect id="Rectangle-12" fill="#106FEF" x="715" y="99" width="12" height="4" rx="2"></rect>
+                <rect id="Rectangle-12" fill="#58E8C5" x="715" y="119" width="12" height="4" rx="2"></rect>
+                <rect id="Rectangle-12" fill="#CFC290" x="715" y="139" width="12" height="4" rx="2"></rect>
+                <rect id="Rectangle-12" fill="#5CBEEF" x="715" y="159" width="12" height="4" rx="2"></rect>
+                <rect id="Rectangle-12" fill="#FD4684" x="715" y="179" width="12" height="4" rx="2"></rect>
+                <path d="M612.5,246.5 L612.5,253.571068" id="Line-6" stroke="#2E3147" stroke-linecap="square"></path>
+                <path d="M506.5,246.5 L506.5,253.571068" id="Line-6" stroke="#2E3147" stroke-linecap="square"></path>
+                <path d="M400.5,246.5 L400.5,253.571068" id="Line-6" stroke="#2E3147" stroke-linecap="square"></path>
+                <path d="M294.5,246.5 L294.5,253.571068" id="Line-6" stroke="#2E3147" stroke-linecap="square"></path>
+                <path d="M187.5,246.5 L187.5,253.571068" id="Line-6" stroke="#2E3147" stroke-linecap="square"></path>
+                <path d="M83.5,246.5 L83.5,253.571068" id="Line-6" stroke="#2E3147" stroke-linecap="square"></path>
+                <path d="M89,185.569722 C124.000221,201.258091 156.688566,210.040267 187.065035,211.916248 C232.62974,214.730221 242.193612,211.510062 297.0727,208.558645 C351.951788,205.607228 354.5,208.558645 401.479939,197.064184 C448.459878,185.569722 475.169751,128.953925 509.920109,110.976963 C533.087015,98.9923209 569.780312,93 620,93" id="Path-6" stroke="#57CBFF" stroke-width="2"></path>
+                <path d="M89,169 C142.106235,139.50775 175.599132,123.376993 189.47869,120.607727 C210.298026,116.453828 230.837115,104.916182 295.550153,127.788866 C360.263191,150.661549 368.30695,157.490025 404.384829,163.245013 C440.462709,169 457.2791,136.609304 510.557767,136.609304 C546.076878,136.609304 581.557622,144.143105 617,159.210709" id="Path-7" stroke="#DFD098" stroke-width="2"></path>
+                <path d="M91,215.492987 C127.948291,189.920269 160.857827,177.630392 189.728608,178.623355 C233.034779,180.112801 258.774514,192.240867 296.734123,197.058171 C334.693733,201.875475 356.801325,170.06684 404.419932,174.408458 C452.03854,178.750075 474.744321,211.227401 508.958405,215.492987 C531.767794,218.33671 567.781659,209.218079 617,188.137093" id="Path-8" stroke="#FD4684" stroke-width="2"></path>
+                <path d="M88,118.295063 C142.735818,140.82736 176.305313,154.7812 188.708484,160.156582 C207.313241,168.219655 258.445532,178.640077 293.733382,160.156582 C329.021231,141.673087 344.639429,114.89191 405.549592,118.295063 C466.459755,121.698216 480.343959,150.967611 511.481561,172.322537 C532.239963,186.559154 567.746109,186.559154 618,172.322537" id="Path-9" stroke="#0F72F7" stroke-width="2"></path>
+            </g>
+        </g>
+    </g>
+</svg>

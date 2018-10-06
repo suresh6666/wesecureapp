@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="/style/style.css">
+    <link rel="stylesheet" href="https://cdn.rawgit.com/twbs/bootstrap/48938155eb24b4ccdde09426066869504c6dab3c/dist/css/bootstrap.min.css">
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAq06l5RUVfib62IYRQacLc-KAy0XIWAVs"></script>
+
+    <link href="/style/bootstrap.min.css" rel="stylesheet">
+
+    <link href="/style/bootstrap-datepicker.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
+  
+
+  </head>
+  <body>
+    <div class="redux"></div>
+  </body>
+  <script src="/bundle.js"></script> 
+  <script src="/js/jquery.min.js"></script>
+  <script>
+            $(".btm-menu").click(function () {
+                $("body").toggleClass("slide-close");
+              });
+              
+
+              $(".notification-btn").click(function () {
+                $(".notifications-box").toggleClass("show");
+              });
+
+              
+              $(".ntf-close").click(function () {
+                $(".notifications-box").removeClass("show");
+              });
+            </script> 
+
+            
+<script>
+        $(document).ready(function() {
+      
+          var nice = $("html").niceScroll({cursorborder:"rgba(0, 0, 0, 0.1)",cursorcolor:"rgba(0, 0, 0, 0.3)"});  // The document page (body)
+      
+          $("#div1").html($("#div1").html()+' '+nice.version);
+      
+          $(".scrollbar").niceScroll({cursorborder:"rgba(0, 0, 0, 0.1)",cursorcolor:"rgba(0, 0, 0, 0.3)"}); // First scrollable DIV
+          $(".scrollbar2").niceScroll({cursorborder:"rgba(0, 0, 0, 0.1)",cursorcolor:"rgba(0, 0, 0, 0.3)"}); });
+        $('.datepicker').datepicker({
+                      autoclose: true
+                    });
+                    $(function () {
+                      $('[data-toggle="tooltip"]').tooltip()
+                    });
+
+
+
+
+                    $(document).on('click', '#close-preview', function(){ 
+    $('.image-preview').popover('hide');
+    // Hover befor close the preview
+    $('.image-preview').hover(
+        function () {
+           $('.image-preview').popover('hide');
+        }, 
+         function () {
+           $('.image-preview').popover('hide');
+        }
+    );    
+});
+
+$(function() {
+    // Create the close button
+    var closebtn = $('<button/>', {
+        type:"button",
+        text: 'x',
+        id: 'close-preview',
+        style: 'font-size: initial;',
+    });
+    closebtn.attr("class","close pull-right");
+    // Set the popover default content
+    $('.image-preview').popover({
+        trigger:'manual',
+        html:true,
+        title: "<strong>Preview</strong>"+$(closebtn)[0].outerHTML,
+        content: "There's no image",
+        placement:'bottom'
+    });
+    // Clear event
+    $('.image-preview-clear').click(function(){
+        $('.image-preview').attr("data-content","").popover('hide');
+        $('.image-preview-filename').val("");
+        $('.image-preview-clear').hide();
+        $('.image-preview-input input:file').val("");
+        $(".image-preview-input-title").text("Browse"); 
+    }); 
+    // Create the preview image
+    $(".image-preview-input input:file").change(function (){     
+        var img = $('<img/>', {
+            id: 'dynamic',
+            width:250,
+            height:200
+        });      
+        var file = this.files[0];
+        var reader = new FileReader();
+        // Set preview image into the popover data-content
+        reader.onload = function (e) {
+            $(".image-preview-input-title").text("Change");
+            $(".image-preview-clear").show();
+            $(".image-preview-filename").val(file.name);            
+            img.attr('src', e.target.result);
+            //$(".image-preview").attr("data-content",$(img)[0].outerHTML).popover("show");
+        }        
+        reader.readAsDataURL(file);
+    });  
+});
+
+$(".assetclick").click(function () {
+                $("body").toggleClass("assetclick-show");
+              });
+      </script>
+  <!--Bootstrap--> 
+  <script src="/js/bootstrap.min.js"></script>
+  <script src="/js/bootstrap-datepicker.min.js"></script>  
+  <script src="/js/jquery.nicescroll.min.js"></script>
+</html>

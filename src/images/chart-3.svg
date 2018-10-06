@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="874px" height="270px" viewBox="0 0 874 270" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>chart-3</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="571" y="6" width="303" height="79"></rect>
+        <rect id="path-2" x="571" y="84" width="303" height="80"></rect>
+        <rect id="path-3" x="571" y="163" width="303" height="78"></rect>
+    </defs>
+    <g id="v2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="2Teya-dashboard-Copy" transform="translate(-472.000000, -976.000000)">
+            <g id="chart-3" transform="translate(472.000000, 974.000000)">
+                <g id="Rectangle-11-Copy-2">
+                    <use fill="#23263B" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <rect stroke="#2E3147" stroke-width="1" x="571.5" y="6.5" width="302" height="78"></rect>
+                </g>
+                <g id="Rectangle-11-Copy-4">
+                    <use fill="#23263B" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    <rect stroke="#2E3147" stroke-width="1" x="571.5" y="84.5" width="302" height="79"></rect>
+                </g>
+                <g id="Rectangle-11-Copy-5">
+                    <use fill="#23263B" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    <rect stroke="#2E3147" stroke-width="1" x="571.5" y="163.5" width="302" height="77"></rect>
+                </g>
+                <text id="85%" font-family="Montserrat-Medium, Montserrat" font-size="36" font-weight="400" fill="#FD4684">
+                    <tspan x="591" y="55">85% </tspan>
+                </text>
+                <text id="12" font-family="Montserrat-Medium, Montserrat" font-size="36" font-weight="400" fill="#106CE8">
+                    <tspan x="591" y="134">12 </tspan>
+                </text>
+                <text id="N/A" font-family="Montserrat-Medium, Montserrat" font-size="36" font-weight="400" fill="#ECBF69">
+                    <tspan x="591" y="213">N/A </tspan>
+                </text>
+                <text id="Risk" font-family="Montserrat-Light, Montserrat" font-size="14" font-weight="300" fill="#FFFFFF">
+                    <tspan x="691" y="34">Risk</tspan>
+                </text>
+                <text id="Bugs" font-family="Montserrat-Light, Montserrat" font-size="14" font-weight="300" fill="#FFFFFF">
+                    <tspan x="691" y="112">Bugs</tspan>
+                </text>
+                <text id="Average" font-family="Montserrat-Light, Montserrat" font-size="14" font-weight="300" fill="#FFFFFF">
+                    <tspan x="691" y="191">Average</tspan>
+                </text>
+                <text id="Can-be-reduced-by-re" font-family="Montserrat-Regular, Montserrat" font-size="11" font-weight="normal" fill="#747689">
+                    <tspan x="691" y="53">Can be reduced by resolving </tspan>
+                    <tspan x="691" y="67">top findings</tspan>
+                </text>
+                <text id="Can-be-reduced-by-re-Copy" font-family="Montserrat-Regular, Montserrat" font-size="11" font-weight="normal" fill="#747689">
+                    <tspan x="691" y="131">Can be reduced by resolving </tspan>
+                    <tspan x="691" y="145">top findings</tspan>
+                </text>
+                <text id="Turn-around-time-to" font-family="Montserrat-Regular, Montserrat" font-size="11" font-weight="normal" fill="#747689">
+                    <tspan x="691" y="210">Turn-around time to resolve </tspan>
+                    <tspan x="691" y="224">a bug</tspan>
+                </text>
+                <text id="wesecure" font-family="Montserrat-Regular, Montserrat" font-size="11" font-weight="normal" fill="#9DA3AF">
+                    <tspan x="25" y="269">wesecure</tspan>
+                </text>
+                <text id="10" font-family="Montserrat-Regular, Montserrat" font-size="11" font-weight="normal" fill="#A7ADB7">
+                    <tspan x="0" y="211">10</tspan>
+                </text>
+                <text id="20" font-family="Montserrat-Regular, Montserrat" font-size="11" font-weight="normal" fill="#A7ADB7">
+                    <tspan x="0" y="171">20</tspan>
+                </text>
+                <text id="30" font-family="Montserrat-Regular, Montserrat" font-size="11" font-weight="normal" fill="#A7ADB7">
+                    <tspan x="0" y="131">30</tspan>
+                </text>
+                <text id="40" font-family="Montserrat-Regular, Montserrat" font-size="11" font-weight="normal" fill="#A7ADB7">
+                    <tspan x="0" y="91">40</tspan>
+                </text>
+                <text id="50" font-family="Montserrat-Regular, Montserrat" font-size="11" font-weight="normal" fill="#A7ADB7">
+                    <tspan x="0" y="51">50</tspan>
+                </text>
+                <text id="60" font-family="Montserrat-Regular, Montserrat" font-size="11" font-weight="normal" fill="#A7ADB7">
+                    <tspan x="0" y="11">60</tspan>
+                </text>
+                <text id="goibibo" font-family="Montserrat-Regular, Montserrat" font-size="11" font-weight="normal" fill="#9DA3AF">
+                    <tspan x="157" y="269">goibibo</tspan>
+                </text>
+                <text id="admin" font-family="Montserrat-Regular, Montserrat" font-size="11" font-weight="normal" fill="#9DA3AF">
+                    <tspan x="277" y="269">admin</tspan>
+                </text>
+                <text id="asset4" font-family="Montserrat-Regular, Montserrat" font-size="11" font-weight="normal" fill="#9DA3AF">
+                    <tspan x="391" y="269">asset4</tspan>
+                </text>
+                <text id="asset5" font-family="Montserrat-Regular, Montserrat" font-size="11" font-weight="normal" fill="#9DA3AF">
+                    <tspan x="497" y="269">asset5</tspan>
+                </text>
+                <rect id="Path" fill="#2E3147" x="22" y="245" width="523" height="1"></rect>
+                <path d="M51.5,246.5 L51.5,252.5" id="Line-9" stroke="#2E3147" stroke-linecap="square"></path>
+                <path d="M171.5,246.5 L171.5,252.5" id="Line-9" stroke="#2E3147" stroke-linecap="square"></path>
+                <path d="M291.5,246.5 L291.5,252.5" id="Line-9" stroke="#2E3147" stroke-linecap="square"></path>
+                <path d="M406.5,246.5 L406.5,252.5" id="Line-9" stroke="#2E3147" stroke-linecap="square"></path>
+                <path d="M514.5,246.5 L514.5,252.5" id="Line-9" stroke="#2E3147" stroke-linecap="square"></path>
+                <rect id="Path" fill="#2E3147" x="22" y="205" width="523" height="1"></rect>
+                <rect id="Path" fill="#2E3147" x="22" y="165" width="523" height="1"></rect>
+                <rect id="Path" fill="#2E3147" x="22" y="125" width="523" height="1"></rect>
+                <rect id="Path" fill="#2E3147" x="22" y="85" width="523" height="1"></rect>
+                <rect id="Path" fill="#2E3147" x="22" y="45" width="523" height="1"></rect>
+                <rect id="Path" fill="#2E3147" x="22" y="5" width="523" height="1"></rect>
+                <path d="M42,165.18731 C95.6269322,155.279128 135.479022,141.698755 161.556269,124.446191 C200.672139,98.5673454 257.387029,116.809174 291.683656,144.81675 C325.980283,172.824327 361.256367,195.494538 400.524424,199.472313 C439.792481,203.450088 492.207123,183.646673 515,183.254333" id="Path-4" stroke="#FD4684" stroke-width="2"></path>
+                <path d="M44,115.06808 C100.801676,113.942761 144.229592,126.768009 174.283748,153.543822 C219.364981,193.707542 261.745405,229.647409 294.205925,221.953823 C326.666445,214.260238 361.171138,150.265549 410.477515,130.607638 C459.783893,110.949726 496.547728,134.139888 515,143.017403" id="Path-5" stroke="#57CBFF" stroke-width="2"></path>
+                <circle id="Oval-8" stroke="#57CBFF" fill="#FFFFFF" cx="42.5" cy="115.5" r="3.5"></circle>
+                <circle id="Oval-8" stroke="#57CBFF" fill="#FFFFFF" cx="172.5" cy="152.5" r="3.5"></circle>
+                <circle id="Oval-8" stroke="#57CBFF" fill="#FFFFFF" cx="292.5" cy="222.5" r="3.5"></circle>
+                <circle id="Oval-8" stroke="#57CBFF" fill="#FFFFFF" cx="404.5" cy="133.5" r="3.5"></circle>
+                <circle id="Oval-8" stroke="#57CBFF" fill="#FFFFFF" cx="514.5" cy="143.5" r="3.5"></circle>
+                <circle id="Oval-8" stroke="#E74E4E" fill="#FFFFFF" cx="514.5" cy="183.5" r="3.5"></circle>
+                <path d="M43,246 L43,115 C102.010329,115.603219 145.081662,127.971847 172.213999,152.105886 C212.912505,188.306945 258.434089,231.013446 292.053151,222.481526 C325.672214,213.949605 355.748626,156.371846 404.785534,132.485987 C437.476806,116.562081 474.214961,120.050932 515,142.952539 L515,245.519011 L43,246 Z" id="Path-11" fill="#67BDF2" opacity="0.0965240036"></path>
+                <circle id="Oval-8" stroke="#E74E4E" fill="#FFFFFF" cx="405.5" cy="200.5" r="3.5"></circle>
+                <circle id="Oval-8" stroke="#E74E4E" fill="#FFFFFF" cx="291.5" cy="143.5" r="3.5"></circle>
+                <circle id="Oval-8" stroke="#E74E4E" fill="#FFFFFF" cx="171.5" cy="119.5" r="3.5"></circle>
+                <circle id="Oval-8" stroke="#E74E4E" fill="#FFFFFF" cx="42.5" cy="165.5" r="3.5"></circle>
+                <path d="M42,246 L42,165.29227 C94.5694401,153.683909 137.658782,138.52629 171.268027,119.819413 C221.681893,91.7590979 284.006085,138.974265 293.342998,146.356092 C302.679912,153.737918 360.425462,202.656433 404.929074,200.662031 C434.598148,199.33243 471.288457,193.25416 515,182.427222 L515,246 L42,246 Z" id="Path-10" fill="#FD4684" opacity="0.1"></path>
+            </g>
+        </g>
+    </g>
+</svg>

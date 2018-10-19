@@ -2,11 +2,15 @@
 <html>
   <head>
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="/style/style.css">
+    <link rel="stylesheet" href="/style/style_new.css">
     <link rel="stylesheet" href="https://cdn.rawgit.com/twbs/bootstrap/48938155eb24b4ccdde09426066869504c6dab3c/dist/css/bootstrap.min.css">
     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAq06l5RUVfib62IYRQacLc-KAy0XIWAVs"></script>
 
     <link href="/style/bootstrap.min.css" rel="stylesheet">
+    <link href="/style/bootstrap.css" rel="stylesheet">
+    <link href="/style/font-awesome.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="/style/jquery.fancybox.min.css" />
+    <link rel="stylesheet" href="/style/bootstrap-tagsinput.css">
 
     <link href="/style/bootstrap-datepicker.css" rel="stylesheet">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
@@ -18,6 +22,15 @@
   </body>
   <script src="/bundle.js"></script> 
   <script src="/js/jquery.min.js"></script>
+
+  <script src="/js/jquery.js"></script>
+    <script src="/js/jquery.fancybox.min.js"></script>
+    <script src="/js/bootstrap-tagsinput.min.js"></script>
+
+    <script src="/js/bootstrap.min.js"></script>
+  <script src="/js/bootstrap-datepicker.min.js"></script>  
+  <script src="/js/jquery.nicescroll.min.js"></script>
+
   <script>
             $(".btm-menu").click(function () {
                 $("body").toggleClass("slide-close");
@@ -117,8 +130,53 @@ $(".assetclick").click(function () {
                 $("body").toggleClass("assetclick-show");
               });
       </script>
-  <!--Bootstrap--> 
-  <script src="/js/bootstrap.min.js"></script>
-  <script src="/js/bootstrap-datepicker.min.js"></script>  
-  <script src="/js/jquery.nicescroll.min.js"></script>
+  <!--Bootstrap-->
+  <script>
+        $(window).scroll(function () {
+            var scroll = $(window).scrollTop();
+
+            if (scroll >= 140) {
+                $(".menu-top-fixed").addClass("fixed"),
+                $(".main-section").addClass("fixed-after");
+                $(".bug-list-section").addClass("bug-list-fixed");
+                // $(".bug-list-scroll").addClass("nicescrol");
+            } else {
+                $(".menu-top-fixed").removeClass("fixed"),
+                $(".main-section").removeClass("fixed-after");
+                $(".bug-list-section").removeClass("bug-list-fixed");
+                $(".search-box.search").removeClass("show"); 
+                // $(".bug-list-scroll").removeClass("nicescrol");
+            }
+
+        });
+         
+
+        $(function () {
+            $('[data-toggle="tooltip"]').tooltip()
+        })
+
+        
+
+        $(".search-click").click(function () {
+                $(".search-box.search").toggleClass("show");
+              });
+
+    </script>
+    <script>
+            $(document).ready(function(){
+                $(".asset-menu").click(function(){
+                    $(".main-section").toggleClass("asset-menu-show");
+                });
+                $(".asset-popup-list").click(function(){
+                    $(".assets-popup-list").toggleClass("assets-list-view");
+                });
+            });
+
+            
+
+            $('.datepicker').datepicker({
+                      autoclose: true
+                    });
+            </script>
+
 </html>
